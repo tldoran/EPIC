@@ -1,6 +1,6 @@
 package org.epiccalculator;
 
-public class Algerbra {
+public class Algebra {
 
     public static double[] solvePolynomial(double[] coefficients) {
         return coefficients;
